@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=merge
+comment1.params=head
+comment1.target=int\ count(merge.node)
+comment2.params=m\ n
+comment2.target=int\ equal(int,\ int)
+comment3.params=c\ one\ two
+comment3.target=int\ intersect(int,\ merge.node,\ merge.node)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
